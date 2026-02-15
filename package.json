@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "@mediapipe/tasks-vision": "^0.10.32"
+  },
+  "name": "gesture-visualizer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "devDependencies": {
+    "vite": "^7.3.1"
+  },
+  "scripts": {
+    "dev": "vite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
